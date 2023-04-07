@@ -14,3 +14,6 @@ Feature extract for 5 full passes ( 5 epochs on train dataset and validate on 15
 Evaluating our model prediction results we must compare the model classes prediction results with the original test dataset labels.
 
 Finding out the wrong class predictions
+
+
+Reference : https://github.com/FidelM345/FoodPredictor
